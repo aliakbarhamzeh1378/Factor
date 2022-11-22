@@ -1,0 +1,20 @@
+{
+  "production": {
+    "name": "Project Name - Production Mode",
+    "port": 4300,
+    "mode": "development",
+    "protocol": "http",
+    "serverUrl": "localhost",
+    "serverUrlWebUrlLink": "0.0.0.0:4300/",
+    "database": {
+      "connection": "mongodb://144.76.104.213:28900/easy_buy"
+    },
+    "secret": "sdsdsds",
+    "email": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    }
+  }
+}

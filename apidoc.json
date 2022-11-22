@@ -1,0 +1,9 @@
+{
+  "name": "Factor controll",
+  "version": "1.0.0",
+  "description": "Factor controll nodejs document",
+  "apidoc": {
+    "title": "Factor controll nodejs document",
+    "url" : "https://api.github.com/v1"
+  }
+}

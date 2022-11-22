@@ -1,0 +1,19 @@
+{
+  "staging": {
+    "name": "Project Name - Staging Mode",
+    "port": 4500,
+    "mode": "staging",
+    "protocol": "http",
+    "serverUrl": "",
+    "serverUrlWebUrlLink": "",
+    "database": {
+      "connection": "mongodb://192.168.15.179:28000/express"
+    },
+    "email": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    }
+  }
+}
