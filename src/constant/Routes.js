@@ -1,7 +1,9 @@
 let base_url = '/api/v1/'
-module.exports = {
+var url = {
 
     Auth: base_url + 'auth',
     Profile: base_url + 'profile',
 
 }
+console.log(url)
+module.exports =url
