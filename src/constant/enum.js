@@ -1,8 +1,9 @@
 module.exports = {
     UserType: {
-        Admin: 1,
-        Seller: 1,
-        User: 0,
+        Admin: 4,
+        Viewer:3,
+        User: 2,
+        GUEST:1
     },
     VerificationState: {
         CodeWrong: 0,
@@ -32,3 +33,6 @@ module.exports = {
         minimum_time_for_forget_password: 10000
     }
 }
+
+
+

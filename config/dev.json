@@ -7,7 +7,7 @@
     "serverUrl": "localhost",
     "serverUrlWebUrlLink": "0.0.0.0:4300/",
     "database": {
-        "connection": "mongodb://127.0.0.1:27017/babak"
+        "connection": "mongodb://127.0.0.1:27017/Rahavard"
     },
     "secret": "sdsdsds",
     "email": {

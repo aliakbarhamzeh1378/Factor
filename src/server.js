@@ -26,7 +26,7 @@ function haltOnTimedout(req, res, next) {
     if (!req.timedout) next();
 }
 
-// mode can be access anywhre in the project
+// mode can be access anywhere in the project
 mode = process.env.NODE_ENV;
 
 const start = () =>
